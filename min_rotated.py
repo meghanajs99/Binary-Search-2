@@ -1,5 +1,6 @@
 //Time Complexity: O(logn)
 //Space Complexity: O(1)
+//Yes
 
 //code
  if len(nums)==1:
